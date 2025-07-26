@@ -136,3 +136,9 @@ Amplify Team - Deployment platform
 
 This README.md includes all the essential information for someone to understand, install, and contribute to your Orcutt Schools chatbot project.
 
+---
+
+✍️ CCC AI Camp Learner Note (July 2025)
+
+This project helped me understand how RAG and a structured frontend can support knowledge-based chatbots. I’m exploring how a similar structure could be adapted for internal court staff onboarding and public procedural guidance tools.
+
